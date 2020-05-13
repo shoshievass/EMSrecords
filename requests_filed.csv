@@ -1,15 +1,15 @@
-City,Access Status,Data Access,Online Link if Available
+City,Access Status,Data Access,Notes/Online Link
 New York City,Pending,FOIA request,[Only up to Dec 2019] https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj/data
 New Orleans,Assigned,FOIA request,
 Seattle,Fulfilled,Open Data Portal,https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj
-San Diego,Assigned,FOIA request,
+San Diego,Fulfilled,FOIA request,
 Los Angeles,Fulfilled,FOIA request,
 Detroit,Fulfilled,Open Data Portal,https://data.detroitmi.gov/datasets/911-calls-for-service/data?geometry=-85.378%2C42.028%2C-81.465%2C42.738&page=290083
 Miami,Assigned,FOIA request,
 Atlanta,No Response Yet,FOIA request,
 Nashville,Stalled (Requested TN drivers license),FOIA request,
 Chicago,Assigned,FOIA request,
-Boston,Assigned,FOIA request,
+Boston,Fulfilled,FOIA request,Only monthly counts
 Baltimore,No Response Yet,FOIA request,
 Philadelphia,No Response Yet,FOIA request,
 Phoenix,No Response Yet,FOIA request,

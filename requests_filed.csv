@@ -5,10 +5,10 @@ Seattle,Fulfilled,Open Data Portal,https://data.seattle.gov/Public-Safety/Seattl
 San Diego,Fulfilled,FOIA request,
 Los Angeles,Fulfilled,FOIA request,
 Detroit,Fulfilled,Open Data Portal,https://data.detroitmi.gov/datasets/911-calls-for-service/data?geometry=-85.378%2C42.028%2C-81.465%2C42.738&page=290083
-Miami,Assigned,FOIA request,
+Miami,Denied,FOIA request,They said they don't have the data
 Atlanta,No Response Yet,FOIA request,
 Nashville,Stalled (Requested TN drivers license),FOIA request,
-Chicago,Assigned,FOIA request,
+Chicago,Fulfilled,FOIA request,
 Boston,Fulfilled,FOIA request,Only monthly counts
 Baltimore,No Response Yet,FOIA request,
 Philadelphia,No Response Yet,FOIA request,
